@@ -1,0 +1,14 @@
+/home/sophie/Code/cational_dex_mrrrp/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/sophie/Code/cational_dex_mrrrp/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/sophie/Code/cational_dex_mrrrp/build/linux/x64/debug/CMakeFiles/install.dir
+/home/sophie/Code/cational_dex_mrrrp/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/sophie/Code/cational_dex_mrrrp/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/sophie/Code/cational_dex_mrrrp/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/sophie/Code/cational_dex_mrrrp/build/linux/x64/debug/CMakeFiles/cational_dex_mrrrp.dir
+/home/sophie/Code/cational_dex_mrrrp/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/home/sophie/Code/cational_dex_mrrrp/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/sophie/Code/cational_dex_mrrrp/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/home/sophie/Code/cational_dex_mrrrp/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/sophie/Code/cational_dex_mrrrp/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/sophie/Code/cational_dex_mrrrp/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/sophie/Code/cational_dex_mrrrp/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
